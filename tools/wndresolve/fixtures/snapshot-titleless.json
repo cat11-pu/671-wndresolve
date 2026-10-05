@@ -1,0 +1,122 @@
+{
+  "target": {
+    "title": "",
+    "class": "",
+    "allow_ancestors": true
+  },
+  "ancestors": [
+    4321,
+    1000,
+    4
+  ],
+  "windows": [
+    {
+      "hwnd": 262602,
+      "pid": 8820,
+      "title": "блокнот",
+      "class": "Notepad",
+      "visible": true,
+      "ex_style": 262272,
+      "order": 0
+    },
+    {
+      "hwnd": 197632,
+      "pid": 8820,
+      "title": "блокнот",
+      "class": "Notepad",
+      "visible": false,
+      "ex_style": 0,
+      "order": 1
+    },
+    {
+      "hwnd": 524290,
+      "pid": 4321,
+      "title": "блокнот",
+      "class": "Notepad",
+      "visible": true,
+      "ex_style": 0,
+      "order": 2
+    },
+    {
+      "hwnd": 329012,
+      "pid": 5504,
+      "title": "Мой блокнот для заметок",
+      "class": "Notepad",
+      "visible": true,
+      "ex_style": 524416,
+      "order": 3
+    },
+    {
+      "hwnd": 393470,
+      "pid": 6844,
+      "title": "Блокнот",
+      "class": "Edit",
+      "visible": true,
+      "ex_style": 0,
+      "order": 4
+    },
+    {
+      "hwnd": 131288,
+      "pid": 7720,
+      "title": "Заметки",
+      "class": "Notepad",
+      "visible": true,
+      "ex_style": 0,
+      "order": 5
+    },
+    {
+      "hwnd": 262530,
+      "pid": 8820,
+      "title": "блокнот",
+      "class": "Notepad",
+      "visible": true,
+      "ex_style": 0,
+      "order": 6
+    },
+    {
+      "hwnd": 458881,
+      "pid": 1000,
+      "title": "Блокнот — служебное",
+      "class": "Edit",
+      "visible": true,
+      "ex_style": 128,
+      "order": 7
+    },
+    {
+      "hwnd": 393466,
+      "pid": 6844,
+      "title": "Некий блокнот",
+      "class": "Notepad",
+      "visible": false,
+      "ex_style": 0,
+      "order": 8
+    },
+    {
+      "hwnd": 328988,
+      "pid": 5504,
+      "title": "Блокнот — черновик",
+      "class": "Notepad",
+      "visible": true,
+      "ex_style": 262144,
+      "order": 9
+    },
+    {
+      "hwnd": 458752,
+      "pid": 7720,
+      "title": "Блокнот — панель",
+      "class": "NotepadX",
+      "visible": true,
+      "ex_style": 262272,
+      "order": 10
+    },
+    {
+      "hwnd": 131204,
+      "pid": 7720,
+      "title": "Заметки",
+      "class": "Notepad",
+      "visible": true,
+      "ex_style": 524288,
+      "order": 11
+    }
+  ]
+}
